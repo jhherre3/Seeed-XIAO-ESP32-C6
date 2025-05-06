@@ -1,0 +1,1 @@
+# Seeed-XIAO-ESP32-C6
